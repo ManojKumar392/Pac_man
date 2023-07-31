@@ -64,4 +64,6 @@ To play Pacman Game, follow these steps:
 ```bash
 python pacman_game.py
 ```
+
+
 alternatively , you can run the .exe file
